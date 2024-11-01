@@ -1,0 +1,58 @@
+.owl-buttons {
+    position: absolute;
+    position: absolute;
+    top: 35%;
+    margin: 0 auto;
+    display: block;
+    width: 100%;
+}
+
+.owl-prev {
+    position: relative;
+    left: 0px;
+    float: left;
+}
+.owl-next {
+    position: relative;
+    right: 0px;
+    float: right;
+}
+.owl-prev img {
+    width: 55%;
+}
+.owl-next img {
+    width: 55%;
+}
+.owl-item .item-box {
+    text-align: center;
+    width: 98%;
+    margin: 0 auto;
+    padding-bottom: 10px;
+    border: 1px solid #ddd;
+}
+.owl-item .item {
+    margin-right: 5px;
+}
+
+.owl-item a.button.add_to_cart_button.product_type_simple {
+    margin-top: 10px;
+}
+.owl-item .item-box {
+    padding-top: 10px;
+}
+
+.owl-item span.amount {
+    position: relative;
+    top: 5px;
+}
+
+.owl-item img.attachment-shop_catalog.wp-post-image{
+	border-radius: 0px;
+    box-shadow: none;
+}
+.owl-item .item img{
+	width: 100%;
+}
+.owl-theme .owl-controls .owl-buttons div{
+    background: transparent;
+}
